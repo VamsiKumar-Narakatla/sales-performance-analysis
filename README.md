@@ -26,7 +26,7 @@ The business wants to:
 ---
 
 ## 📂 Dataset Details
-- Total Records: ~150 rows
+- Total Records: ~110 rows
 - Time Period: 2024
 - Key Fields:
   - Order Date
@@ -76,3 +76,10 @@ The business wants to:
 
 ## ✅ Conclusion
 This project demonstrates my ability to analyze business data and present insights using Excel, making it suitable for Data Analyst fresher roles.
+
+
+## 👤 Developer
+- **Name:** Vamsi Kumar Narakatla 
+- **Email:** Vamsikumarnarakatla@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/vamsikumar-narakatla
+
